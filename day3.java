@@ -19,7 +19,7 @@ public class day3 {
 
         if (count == 2) {
             System.out.println(num + " is a Prime Number");
-        } else {
+        } else 
             System.out.println(num + " is not a Prime Number");
         }
     }

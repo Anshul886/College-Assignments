@@ -1,4 +1,4 @@
- import java.util.*;
+d import java.util.*;
 
 public class day18 {
 
